@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: arrive.png
+alt: Arrive
+project-date: April 2014
+client: Arrive
+category: logistic
+status: IPO
+description: Arrive (formerly DroneDek)
+---

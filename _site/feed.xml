@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2024-04-21T03:06:45-04:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">ICBM Venture Capital</title>
+  
+
+  
+    <subtitle>ICBM is an early stage venture fund.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Rad Ai</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Rad Ai" />
+      <published>2014-07-18T00:00:00-04:00</published>
+      <updated>2014-07-18T00:00:00-04:00</updated>
+      <id>http://localhost:4000/Rad-AI</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Marketing" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Entre</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Entre" />
+      <published>2014-07-17T00:00:00-04:00</published>
+      <updated>2014-07-17T00:00:00-04:00</updated>
+      <id>http://localhost:4000/Entre</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Social Media" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Arrive</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Arrive" />
+      <published>2014-07-16T00:00:00-04:00</published>
+      <updated>2014-07-16T00:00:00-04:00</updated>
+      <id>http://localhost:4000/Arrive</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="logistic" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Expert Dojo</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Expert Dojo" />
+      <published>2014-07-15T00:00:00-04:00</published>
+      <updated>2014-07-15T00:00:00-04:00</updated>
+      <id>http://localhost:4000/Expert-DOJO</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Venture Capital" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Atom Limbs</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Atom Limbs" />
+      <published>2014-07-15T00:00:00-04:00</published>
+      <updated>2014-07-15T00:00:00-04:00</updated>
+      <id>http://localhost:4000/Atom-Limbs</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Medical" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Wefunder</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Wefunder" />
+      <published>2014-07-14T00:00:00-04:00</published>
+      <updated>2014-07-14T00:00:00-04:00</updated>
+      <id>http://localhost:4000/WeFunder</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Crowdfunding" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

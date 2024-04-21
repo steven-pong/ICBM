@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: wefunder.png
+alt: WeFunder
+project-date: https://wefunder.com
+client: WeFunder
+category: Crowdfunding
+description: WeFunder is a crowdfunding platform.
+---
