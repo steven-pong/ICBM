@@ -4,8 +4,9 @@ modal-id: 2
 date: 2014-07-17
 img: entre.png
 alt: Entre
-project-date: April 2014
+project-date: joinentre.com
 client: Entre
 category: Social Media
-description: Entre
+status: Seed
+description: Entre is a social media platform for entrepreneurs and professionals.
 ---

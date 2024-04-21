@@ -4,9 +4,11 @@ modal-id: 3
 date: 2014-07-16
 img: arrive.png
 alt: Arrive
-project-date: April 2014
+founded: 2014
 client: Arrive
 category: logistic
-status: IPO
-description: Arrive (formerly DroneDek)
+url: arrive.tech
+stage: Pre-IPO
+ipo: ARRV
+description: <b>Arrive</b> (<i>formerly</i> DroneDek) is a Mailbox-as-a-Service (MaaS).
 ---
